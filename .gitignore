@@ -1,0 +1,14 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 环境
+.env
+.env.local
